@@ -8,7 +8,7 @@
 ### Description 
 Implement a connection between a Ruby on Rails back-end and React front-end. Generate randome greetings from Database and display using API.Project with two apps
 
-### Link to back-end
+### Link to Front-end
 
 [Front-end](https://github.com/sentayhu19/hello-react-front-end)
 
